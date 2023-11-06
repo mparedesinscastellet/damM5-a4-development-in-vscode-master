@@ -1,0 +1,28 @@
+:host() {
+    display: flex;
+    flex-direction: column;
+}
+
+app-footer {
+    align-self:flex-end;
+
+}
+
+.space {
+    flex-grow: 1;
+    
+}
+.content{
+    text-align: center;
+    color: rgb(247, 168, 251);
+    font-size: 30px;
+}
+.title{
+    color: rgb(255, 255, 255);
+}
+.hola{
+    color: rgb(255, 255, 255);
+    font-weight: yes;
+
+}
+
